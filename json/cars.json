@@ -1,0 +1,57 @@
+[
+   {
+      "modelo":"Consola PS1",
+      "produccion":1994 ,
+      "millaje":12000,
+      "imagen":"imagen/consola.jpg",
+      "enlace":"pg.html"
+   },
+
+   {
+      "modelo":"Consola PS2",
+      "produccion":2000,
+      "millaje":1200,
+      "imagen":"imagen/consola2.jpg",
+      "enlace":"pg.html"
+   },
+
+   {
+      "modelo":"Consola PS3",
+      "produccion":2006,
+      "millaje":4560,
+      "imagen":"imagen/consola3.jpg",
+      "enlace":"pg.html"
+   },
+
+   {
+      "modelo":"Consola PS4",
+      "produccion":2013,
+      "millaje":58200,
+      "imagen":"imagen/consola4.jpg",
+      "enlace":"pg.html"
+   },
+
+   {
+      "modelo":"Consola PS5",
+      "produccion":2020,
+      "millaje":1200,
+      "imagen":"imagen/consola5.jpg",
+      "enlace":"pg.html"
+   },
+
+   {
+      "modelo":"Nintendo Switch",
+      "produccion":2017,
+      "millaje":4560,
+      "imagen":"imagen/consola6.jpg",
+      "enlace":"pg.html"
+   },
+
+   {
+      "modelo":"Consola Xbox Serie X",
+      "produccion":2020,
+      "millaje":58200,
+      "imagen":"imagen/consola7.jpg",
+      "enlace":"pg.html"
+   }
+]

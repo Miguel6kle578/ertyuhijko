@@ -1,0 +1,37 @@
+body {
+    background-image: url(historia-fondo-abstracto-lluvia-pixeles_23-2148383734.avif);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+}
+
+h1 {
+    color: red;
+}
+
+.link ul {
+    display: flex;
+}
+
+.link ul li > a {
+    font-size: 17px;
+    color: #FFFFFF;
+    margin-right: 20px;
+}
+
+.link ul li > a:hover {
+    color: #ff5a2c;
+}
+
+@media(max-width:991px) {
+
+    body {
+        padding: 30px;
+    }
+
+    form {
+        width: 340px;
+    }
+}
